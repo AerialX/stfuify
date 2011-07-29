@@ -1,0 +1,8 @@
+STFUify is a Spotify Audio Adblock for Mac OS X
+Consider it licensed under the WTFPL
+
+To use it, just run stfuify.sh however you want. No, I'm not bothering to make some app package or whatever people do on Macs.
+
+Note that ads are only silenced, not skipped entirely. Blame laziness - it doesn't mute your system or anything like that though. Also, Growl notifications no longer will mention advertisements.
+
+Let me know if I wasted my time on this, I'd love to hear that there's a better adblock out there (inb4premium).
